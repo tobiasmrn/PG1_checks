@@ -1,6 +1,2 @@
 check50:
-  checks:
-    foo:
-      - run: python3 hello.py
-        stdout: Hello, world!
-        exit: 0
+  checks: U5_Checks.py

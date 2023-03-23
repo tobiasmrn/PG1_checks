@@ -4,7 +4,7 @@ import check50.c
 @check50.check()
 def exists():
     """U5.c exists!"""
-    check50.exists("U5.c")
+    check50.exists("U5_[].c")
 
 @check50.check(exists)
 def compiles():
